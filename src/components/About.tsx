@@ -27,7 +27,7 @@ export default function About() {
       <OuterContainer>
         <Container>
           <Typography variant="h6">
-            ODOPADOMETR
+            ODPADOMETR
           </Typography>         
           <Typography variant="subtitle1">
             Zapraszamy do zabawy, w której sprawdzisz, na ile Twój styl życia
